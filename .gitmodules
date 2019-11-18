@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/marcoamolinaro/react-redux-streams-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/marcoamolinaro/react-redux-streams-client.git
