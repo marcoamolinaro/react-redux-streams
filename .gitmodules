@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/marcoamolinaro/react-redux-streams-client.git
+[submodule "rtmpserver"]
+	path = rtmpserver
+	url = https://github.com/marcoamolinaro/react-redux-streams-rtmpserver.git
